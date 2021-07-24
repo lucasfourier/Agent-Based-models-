@@ -1,3 +1,2 @@
 # Agent-Based-models-
-This repository will contain models regarding Agent-Based models in the financial market.
-blablablablablablaasdasdsadsad
+branch da reuniao de back end com alterações no readme.
